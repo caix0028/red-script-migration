@@ -1,0 +1,101 @@
+inv_id,meter_id,inv_brand_id,inv_model_id,inv_no,inv_name,inv_SN,date_of_com,date_of_decom,active,monitoring_portal,portal_ref,remarks
+1,1,5,13,1,"111 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+2,1,5,13,2,"111 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+3,1,5,13,3,"111 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+4,1,5,13,4,"111 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+5,1,5,13,5,"111 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+6,2,5,13,1,"112 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+7,2,5,13,2,"112 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+8,2,5,13,3,"112 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+9,2,5,13,4,"112 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+10,2,5,13,5,"112 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,NULL,NULL,"Converted from 1x SE12.5K inverter"
+11,3,5,13,1,"115 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,Envision,AaGhm4eb,"Converted from 1x SE12.5K inverter"
+12,3,5,13,2,"115 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,Envision,pdGBlDj8,"Converted from 1x SE12.5K inverter"
+13,3,5,13,3,"115 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,Envision,OYIerghV,"Converted from 1x SE12.5K inverter"
+14,3,5,13,4,"115 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,Envision,V1NKbFHo,"Converted from 1x SE12.5K inverter"
+15,3,5,13,5,"115 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,Envision,qTc9S6Yy,"Converted from 1x SE12.5K inverter"
+16,4,5,13,1,"116 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,Envision,QhLTmxMm,"Converted from 1x SE12.5K inverter"
+17,4,5,13,2,"116 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,Envision,ipHmezo1,"Converted from 1x SE12.5K inverter"
+18,4,5,13,3,"116 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,Envision,k9Lz7HRk,"Converted from 1x SE12.5K inverter"
+19,4,5,13,4,"116 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,Envision,JXpkq99a,"Converted from 1x SE12.5K inverter"
+20,4,5,13,5,"116 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,Envision,7Xm3aBBI,"Converted from 1x SE12.5K inverter"
+21,5,5,13,1,"117 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,Envision,9bW9j2BN,"Converted from 1x SE12.5K inverter"
+22,5,5,13,2,"117 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,Envision,fZRO2zmj,"Converted from 1x SE12.5K inverter"
+23,5,5,13,3,"117 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,Envision,5GVmSF0f,"Converted from 1x SE12.5K inverter"
+24,5,5,13,4,"117 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,Envision,bduKjmi6,"Converted from 1x SE12.5K inverter"
+25,5,5,12,5,"117 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,Envision,bNSFy0n0,"Converted from 1x SE10K inverter"
+26,6,5,13,1,"118 Edgefield Plains_G1_I1",NULL,NULL,NULL,NULL,Envision,u3c1agAq,"Converted from 1x SE12.5K inverter"
+27,6,5,13,2,"118 Edgefield Plains_G1_I2",NULL,NULL,NULL,NULL,Envision,39EgV3x9,"Converted from 1x SE12.5K inverter"
+28,6,5,13,3,"118 Edgefield Plains_G1_I3",NULL,NULL,NULL,NULL,Envision,IhNG6Cgb,"Converted from 1x SE12.5K inverter"
+29,6,5,13,4,"118 Edgefield Plains_G1_I4",NULL,NULL,NULL,NULL,Envision,nos7PzDx,"Converted from 1x SE12.5K inverter"
+30,6,5,13,5,"118 Edgefield Plains_G1_I5",NULL,NULL,NULL,NULL,Envision,0ecyP5i0,"Converted from 1x SE17K inverter"
+31,41,5,11,1,Sanden_G1_I1,NULL,NULL,NULL,NULL,Envision,tg3UYTUm,"Converted from 1x SE17K inverter"
+32,41,5,11,2,Sanden_G1_I2,NULL,NULL,NULL,NULL,Envision,VCpMkt5Y,"Converted from 1x SE17K inverter"
+33,41,5,11,3,Sanden_G1_I3,NULL,NULL,NULL,NULL,Envision,i3HEVGzq,"Converted from 1x SE17K inverter"
+34,41,5,11,4,Sanden_G1_I4,NULL,NULL,NULL,NULL,Envision,lydmjWRO,"Converted from 1x SE17K inverter"
+35,41,5,11,5,Sanden_G1_I5,NULL,NULL,NULL,NULL,Envision,sqgYpmXM,"Converted from 1x SE17K inverter"
+36,41,5,11,6,Sanden_G1_I6,NULL,NULL,NULL,NULL,Envision,2nFFug1G,"Converted from 1x SE17K inverter"
+37,41,5,11,7,Sanden_G1_I7,NULL,NULL,NULL,NULL,Envision,fBvE4WlX,"Converted from 1x SE17K inverter"
+38,41,5,11,8,Sanden_G1_I8,NULL,NULL,NULL,NULL,Envision,Y8GLcSzk,"Converted from 1x SE17K inverter"
+39,41,5,11,9,Sanden_G1_I9,NULL,NULL,NULL,NULL,Envision,mROjwpoE,"Converted from 1x SE17K inverter"
+40,42,5,11,1,Sanden_G2_I1,NULL,NULL,NULL,NULL,Envision,K12Np8bf,"Converted from 1x SE17K inverter"
+41,42,5,11,2,Sanden_G2_I2,NULL,NULL,NULL,NULL,Envision,Zqezwtca,"Converted from 1x SE17K inverter"
+42,42,5,11,3,Sanden_G2_I3,NULL,NULL,NULL,NULL,Envision,DRNGmCTM,"Converted from 1x SE17K inverter"
+43,42,5,11,4,Sanden_G2_I4,NULL,NULL,NULL,NULL,Envision,lRx0v9ov,"Converted from 1x SE17K inverter"
+44,42,5,11,5,Sanden_G2_I5,NULL,NULL,NULL,NULL,Envision,UHmPP38E,"Converted from 1x SE17K inverter"
+45,42,5,11,6,Sanden_G2_I6,NULL,NULL,NULL,NULL,Envision,teLSvJdf,"Converted from 1x SE17K inverter"
+46,42,5,11,7,Sanden_G2_I7,NULL,NULL,NULL,NULL,Envision,SPhVz99i,"Converted from 1x SE17K inverter"
+47,42,5,11,8,Sanden_G2_I8,NULL,NULL,NULL,NULL,Envision,k28oWs5L,"Converted from 1x SE17K inverter"
+48,42,5,11,9,Sanden_G2_I9,NULL,NULL,NULL,NULL,Envision,tX1QIsBm,"Converted from 1x SE17K inverter"
+49,42,5,11,10,Sanden_G2_I10,NULL,NULL,NULL,NULL,Envision,rfN5dQ4Z,"Converted from 1x SE17K inverter"
+50,42,5,11,11,Sanden_G2_I11,NULL,NULL,NULL,NULL,Envision,ZcejWHeW,"Converted from 1x SE17K inverter"
+51,42,5,11,12,Sanden_G2_I12,NULL,NULL,NULL,NULL,Envision,ohFFpj5t,"Converted from 1x SE17K inverter"
+52,42,5,11,13,Sanden_G2_I13,NULL,NULL,NULL,NULL,Envision,CMXE2LBt,"Converted from 1x SE17K inverter"
+53,43,5,13,1,Sakae_G1_I1,NULL,NULL,NULL,NULL,Envision,nVjLfICN,"Converted from 1x SE12.5K inverter"
+54,43,5,13,2,Sakae_G1_I2,NULL,NULL,NULL,NULL,Envision,3LO8St8V,"Converted from 1x SE12.5K inverter"
+55,43,5,13,3,Sakae_G1_I3,NULL,NULL,NULL,NULL,Envision,bfsrNnxJ,"Converted from 1x SE12.5K inverter"
+56,43,5,13,4,Sakae_G1_I4,NULL,NULL,NULL,NULL,Envision,YYQXmFPB,"Converted from 1x SE12.5K inverter"
+57,43,5,13,5,Sakae_G1_I5,NULL,NULL,NULL,NULL,Envision,2iSb5LAg,"Converted from 1x SE12.5K inverter"
+58,43,5,13,6,Sakae_G1_I6,NULL,NULL,NULL,NULL,Envision,86ODrL2c,"Converted from 1x SE12.5K inverter"
+59,43,5,13,7,Sakae_G1_I7,NULL,NULL,NULL,NULL,Envision,fF9O5yGV,"Converted from 1x SE12.5K inverter"
+60,43,5,13,8,Sakae_G1_I8,NULL,NULL,NULL,NULL,Envision,A6VFYeA9,"Converted from 1x SE12.5K inverter"
+61,43,5,13,9,Sakae_G1_I9,NULL,NULL,NULL,NULL,Envision,IFg8FUHZ,"Converted from 1x SE12.5K inverter"
+62,43,5,13,10,Sakae_G1_I10,NULL,NULL,NULL,NULL,Envision,pZYY3V0A,"Converted from 1x SE12.5K inverter"
+63,44,5,13,1,Sakae_G2_I11,NULL,NULL,NULL,NULL,Envision,TcEASpv6,"Converted from 1x SE12.5K inverter"
+64,44,5,13,2,Sakae_G2_I12,NULL,NULL,NULL,NULL,Envision,yS4wJCW3,"Converted from 1x SE12.5K inverter"
+65,44,5,13,3,Sakae_G2_I13,NULL,NULL,NULL,NULL,Envision,xmrSaYSz,"Converted from 1x SE12.5K inverter"
+66,44,5,13,4,Sakae_G2_I14,NULL,NULL,NULL,NULL,Envision,XwcPTbPn,"Converted from 1x SE12.5K inverter"
+67,44,5,13,5,Sakae_G2_I15,NULL,NULL,NULL,NULL,Envision,d4AWrmCr,"Converted from 1x SE12.5K inverter"
+68,44,5,13,6,Sakae_G2_I16,NULL,NULL,NULL,NULL,Envision,thFyAZ6t,"Converted from 1x SE12.5K inverter"
+69,44,5,13,7,Sakae_G2_I17,NULL,NULL,NULL,NULL,Envision,9hBl5Qit,"Converted from 1x SE12.5K inverter"
+70,44,5,13,8,Sakae_G2_I18,NULL,NULL,NULL,NULL,Envision,dNL0eKyM,"Converted from 1x SE12.5K inverter"
+71,44,5,13,9,Sakae_G2_I19,NULL,NULL,NULL,NULL,Envision,x7bDfhb3,"Converted from 1x SE12.5K inverter"
+72,44,5,13,10,Sakae_G2_I20,NULL,NULL,NULL,NULL,Envision,xxsfLqqe,"Converted from 1x SE12.5K inverter"
+73,45,5,12,1,Sakae_G3_I21,NULL,NULL,NULL,NULL,Envision,YTBLzP8D,"Converted from 3x SE10K inverter"
+74,45,5,12,2,Sakae_G3_I22,NULL,NULL,NULL,NULL,Envision,RCNyBj3I,NULL
+76,46,1,2,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+77,46,1,2,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+78,46,1,2,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+79,46,1,2,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+80,46,1,2,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+81,46,1,2,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+82,46,1,2,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+83,46,1,2,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+84,47,1,2,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+85,47,1,2,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+86,47,1,2,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+87,47,1,2,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+88,47,1,2,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+89,49,1,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+90,49,1,1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+91,49,1,1,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+92,49,1,1,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+93,49,1,1,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+94,49,1,1,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+95,49,1,1,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+96,49,1,1,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+97,49,1,1,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+98,49,1,1,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+99,49,1,1,11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+100,49,1,1,12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+101,49,1,1,13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
