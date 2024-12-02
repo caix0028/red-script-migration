@@ -1,9 +1,0 @@
-inverter_state,Description
-768,Shutdown: unexpected shutdown
-769,Shutdown: commanded shutdown
-770,Shutdown: OVGR
-771,Shutdown: communication disconnection
-772,Shutdown: limited power
-773,Shutdown: manual startup is required
-774,Shutdown: DC switch disconnected
-45056,Communication disconnection
